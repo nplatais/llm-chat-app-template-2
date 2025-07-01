@@ -3,7 +3,7 @@
   "description": "A simple chat application powered by Cloudflare Workers AI",
   "version": "0.0.0",
   "cloudflare": {
-    "label": "Nick's LLM Chat App",
+    "label": "Tatis' Chat App",
     "products": [
       "Workers",
       "Workers AI",
